@@ -17,6 +17,7 @@ The Game ID is the unique identifier of each PlayStation game, it consists of 9 
 - **UCES00465** : Europe
 - **UCET00713** : Europe (Beta)
 - **UCUS98712** : USA
+- **UCAS40179** : Asia
 
 ### Copyrights
 ```
